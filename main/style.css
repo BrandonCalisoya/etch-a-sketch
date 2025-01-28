@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    padding: 5px;
+    margin-bottom: 20px;
+    width:100px;
+    height: 40px;
+}
+.div-a{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+main{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 800px;
+}
+.mouse-over{
+    background-color: black;
+    
+}
+
